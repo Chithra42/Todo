@@ -1,0 +1,30 @@
+ form{
+    margin-left:50%;
+    margin-right: 0%;
+    margin-top: 40%;
+    
+} 
+.error-text{
+    display: none;
+}
+#loginpass{
+    display: none;
+}
+#loginend{
+    display: none;
+}
+.navbar-brand{
+    margin-left: 5%;
+}
+#activities{
+    margin-left: 5%;
+    margin-top: 4%;
+}
+#chk{
+    
+  pointer-events: none;
+/* for "disabled" effect */
+  opacity: 0.5;
+  background: #CCC;
+}
+
